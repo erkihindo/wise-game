@@ -11,7 +11,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
+(You might also need to run something like flutter build ios, after first opening the project)
 To run it I opened the iOS folder with XCode, ran pod install, connected an iPad to my Mac and ran the come from XCode.
 
 
