@@ -1,16 +1,25 @@
-# wise_game
+# Wise Game
 
-A new Flutter project.
+This is a small maths game I made for the student fair.
 
-## Getting Started
+
+## Flutter
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+(You might also need to run something like flutter build ios, after first opening the project)
+To run it I opened the iOS folder with XCode, ran pod install, connected an iPad to my Mac and ran the come from XCode.
+
+
+## Game Guide
+
+The point of this game is to show that Wise is always the better option, compared to a regular bank.
+
+The goal is to choose which one is better (Hint, it's **always Wise**. And you have to write the **difference** in the input field.
+
+[Wise quick maths game.pdf](https://github.com/erkihindo/wise-game/files/8699269/Wise.quick.maths.game.pdf)
+
