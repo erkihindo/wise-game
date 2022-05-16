@@ -12,7 +12,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-To run it I opened the iOS folder with XCode, connected an iPad to my Mac and ran the come from XCode.
+To run it I opened the iOS folder with XCode, ran pod install, connected an iPad to my Mac and ran the come from XCode.
 
 
 ## Game Guide
